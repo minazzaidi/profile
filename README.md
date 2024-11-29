@@ -47,4 +47,4 @@ Step 4: Visualizations
 
 I created different visuals related to the data which provides valuable insights. There is also a win-loss chart which you might like.(PS. Thats my favorite part of the dashboard)
 
-Download the pbix file attached and take a look at the dashboard.
+Download the Sales Department Dashboard pbix file attached and take a look at the dashboard.
