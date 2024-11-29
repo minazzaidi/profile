@@ -21,6 +21,8 @@ Problem-solving and project management.
 
 **📊 Power BI Projects**
 
+**Sales Department Dashboard**
+
 So this a project which I did from Sales Department Data. The Data consists of Sales Target for each Sales person and Actual Sales Done for the Calendar Year 2023 and 2024. Along with that there is a table for Teams for Sales Persons.
 Using the data I have creaeted basic KPI dashboard portraying how the actual and target sales comparison is based on each months, and how many months we have reached the target. 
 The data can be filtered using Sales Teams. You will see a seperate Calculations table for the measures created for this particualar dashboard too. 
